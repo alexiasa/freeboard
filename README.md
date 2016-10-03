@@ -1,3 +1,6 @@
+Docker image for this repo:
+https://hub.docker.com/r/alexiasa/freeboard/
+
 freeboard
 ==========
 
