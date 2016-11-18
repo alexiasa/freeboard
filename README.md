@@ -1,5 +1,7 @@
-Docker image for this repo:
-https://hub.docker.com/r/alexiasa/freeboard/
+Notes:
+
+- Docker image for this repo is located here: https://hub.docker.com/r/alexiasa/freeboard/
+- This setup exposes port 3000 rather than port 80 by default. Bear that in mind if you're running the image that's on Dockerhub.
 
 freeboard
 ==========
